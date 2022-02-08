@@ -1,0 +1,97 @@
+.maze {
+    width:500px;
+    height:400px;
+}
+.level1 {
+    width:500px;
+    height:400px;
+}
+.level2 {
+    width:500px;
+    height:400px;
+}
+.level3 {
+    width:500px;
+    height:400px;  
+}
+.finsh {
+    width:70px;
+    height:70px;
+    display: flex;
+    justify-content:center;
+    margin:5px 575px 1px;
+    
+    
+    
+}
+
+.images1 {
+    display: flex;
+    justify-content: center;
+    border: solid black 5px;
+    margin: 77px;
+    
+}
+.images2 {
+    display: flex;
+    justify-content: center;
+    
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+p {
+    display: flex;
+    justify-content: center;
+    font-family: 'Montagu Slab', serif;
+    font-size: 150%;
+    color:  #7B241C;
+}
+p-1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Montagu Slab', serif;
+    font-size: 150%;
+    color:  #FF6F61;
+}
+p-2 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Montagu Slab', serif;
+    font-size: 150%;
+    color:  #33FFF3;
+}
+body{
+    background-color:#34568B;
+}
+.start{
+    font-family: 'Montagu Slab', serif;
+     font-size: 150%;
+}
+.left1{
+    font-family: 'Montagu Slab', serif;
+     font-size: 150%;
+}
+.right1{
+    font-family: 'Montagu Slab', serif;
+     font-size: 150%;
+}
+.left2{
+    font-family: 'Montagu Slab', serif;
+     font-size: 150%;
+}
+.right2{
+    font-family: 'Montagu Slab', serif;
+     font-size: 150%;
+}
+.left3{
+    font-family: 'Montagu Slab', serif;
+     font-size: 150%;
+}
+.right3{
+    font-family: 'Montagu Slab', serif;
+     font-size: 150%;
+}
+    
+
